@@ -25,11 +25,13 @@ date_format: D MMM YYYY
 # profile
 profile:
   title: Howdy! It's Tripovich! 
-  body: This micro blog is the showcase of my work on game music. There are sketches and loops in the posts section, have a listen.
+  body: This micro blog is the showcase of my work on game music. There are sketches and loops in the posts section, have a listen. Contact email on About page. I'm looking to collaborate with beginner game developers free of charge.
   image: /profile_cover.png
 
   links:
+    Posts: /archives/
     Soundcloud: https://soundcloud.com/tripovich
+
 
 # footer
 footer:
